@@ -1,0 +1,18 @@
+Entegrasyon testi
+Unit testi
+Dom
+Rest 
+Restful
+MVM -MVP -MVC farklar
+Fonksiyonel programlama nedir
+N LOG N for döngüsü nedir?
+SOLID ?
+Dependency Injectıon /Dependency Inversion
+Http methodları neler?
+microservice 
+microfronend nedir?
+micromimari nedir
+İnterface ,inheritance ,compozision 
+Single Page Application
+render() ne demek
+bind()
